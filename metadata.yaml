@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40293'
     url: http://www.gutenberg.org/2009/agents/40293
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39904#The-Life-of-Crustacea
 gutenberg_issued: '2012-06-03'
 gutenberg_type: Text
 identifiers:
