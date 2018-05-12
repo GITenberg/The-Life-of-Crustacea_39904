@@ -1,0 +1,27 @@
+_repo: The-Life-of-Crustacea_39904
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39904-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Calman, W. T. (William Thomas)
+    alias: Calman, William Thomas
+    birthdate: 1871
+    deathdate: 1952
+    gutenberg_agent_id: '40293'
+    url: http://www.gutenberg.org/2009/agents/40293
+description: ''
+gutenberg_issued: '2012-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39904'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crustacea'
+- !lcc 'QL'
+title: The Life of Crustacea
+url: http://www.gutenberg.org/ebooks/39904
